@@ -1,0 +1,51 @@
+/* .searchable-container{
+  margin:20px 0 0 0;
+ 
+} */
+.searchable-container label.btn-default.active{
+  background-color:rgb(114, 175, 22) ;
+  color:white;
+  /* font-weight: bold;   */
+  border:1px solid rgb(114, 175, 22);
+
+}
+.searchable-container label.btn-default{
+  width:90%;
+  color:black;
+  border:1px solid #635b94;
+ 
+  background-color: #635b94;
+  /* font-weight: bold;   */
+}
+
+.searchable-container label .bizcontent{
+  width:100%;
+}
+.searchable-container .btn-group{
+  width:90%
+}
+.searchable-container .btn span.glyphicon{
+    opacity: 0;
+}
+.searchable-container .btn.active span.glyphicon {
+    opacity: 1;
+}
+
+@media screen and (max-width: 360px) {
+  p{
+    font-size: 8.5px;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  p{
+    font-size: 10px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (min-width: 600px) {
+  p{
+    font-size: 17px;
+  }
+}

@@ -1,0 +1,145 @@
+body {
+    background-color: #372A82;
+    color: white;
+}
+
+.logo-superschool {
+    position: absolute;
+    width: 149px;
+    height: 31px;
+    left: 9%;
+    top: 3%;
+
+    font-family: Sans-Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+}
+
+.hero-element-inside {
+    color: white;
+}
+
+.hero-element-inside-title {
+    color: white;
+    /* font-size: 60px; */
+}
+
+.hero-button {
+    background: linear-gradient(103.62deg, #DB753C 1.24%, #C93CA2 100%);
+    display: flex;
+    flex-direction: row;
+    padding: 19px 30px;
+    border-radius: 16px;
+
+}
+
+.hero-button-arrow {
+    position: static;
+    left: 73.4%;
+    right: 14.78%;
+    top: 31.54%;
+    bottom: 31.54%;
+
+}
+
+.home-cards {
+    background-color: #4B3E96;
+    color: white;
+    /* width: 350px;
+    height: 220px; */
+    
+}
+
+.home-cards-h1{
+    color: white;
+}
+.course-cards-1{
+    background: linear-gradient(103.62deg, #D18E4E 1.24%, #D66B7E 100%);
+    /* width: 350px;
+    height: 220px;
+    position: absolute;
+    left: 20%;
+    transition: translate(-20%); */
+}
+.course-cards-2{
+    background: linear-gradient(103.62deg, #89E486 1.24%, #00C9B8 100%);
+    /* width: 350px;
+    height: 220px;
+    position: absolute;
+    left: 55%;
+    top: 50%;
+    transition: translate(-55%); */
+}
+.course-cards-3{
+    background: linear-gradient(103.62deg, #61A1F3 1.24%, #61A1F3 100%);
+    /* width: 350px;
+    height: 220px;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    transition: translate(-20%); */
+}
+.course-cards-4{
+    background: linear-gradient(103.62deg, #FFB3C1 1.24%, #DA60BD 100%);
+    /* width: 350px;
+    height: 220px;
+    position: absolute;
+    left: 55%;
+    top: 50%;
+    transition: translate(-55%); */
+    
+}
+.course-cards-5{
+    background: linear-gradient(103.62deg, #DB753C 1.24%, #C93CA2 100%);
+    /* width: 350px;
+    height: 220px;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    transition: translate(-20%); */
+}
+.course-cards-6{
+    background: linear-gradient(103.62deg, #81DCAF 1.24%, #6A9AEB 100%);
+    /* width: 350px;
+    height: 220px;
+    position: absolute;
+    left: 55%;
+    top: 50%;
+    transition: translate(-55%); */
+}
+
+.footer{
+    margin: auto;
+}
+
+.footer-h1{
+    color: white;
+}
+
+.footer-1{    
+    background-color:#372A82 ; 
+    
+
+}
+
+.footer-1-inside{
+    margin:auto;
+    
+    width: 70%;
+}
+/* @media screen and (min-width: 601px) {
+    div.example {
+      font-size: 80px;
+    }
+  }*/
+  
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+  /* @media screen and (max-width: 600px) {
+    div.example {
+      font-size: 30px;
+    }
+  } */ 
